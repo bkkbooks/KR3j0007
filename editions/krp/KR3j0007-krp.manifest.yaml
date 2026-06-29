@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR3j0007/krp/v1
+canonical_location: https://kanripo.org/bkk/KR3j0007/krp/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 公孫龍子
+  date: '2015-08-24 23:19:19.536143'
+  source:
+    repository: kanripo
+    path: KR3j0007
+  base_edition: WYG
+  edition:
+    short: krp
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3j0007_000-krp.yaml, hash: 'sha256:d3f5dc10ecd7848c8e869795bb77f8964a549937f0e9f4a5c0dd3d81d2eb5c97'}
+  - {seq: 1, filename: KR3j0007_001-krp.yaml, hash: 'sha256:92479b93624f34a5cc51204302025a7b6c3090ed1c02ef489d46a76c397afbae'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3j0007_000-krp.markers.yaml, hash: 'sha256:f3dfa00a2910afd95485ed6e85d0b0f04cecbc9f13364fae07fe960c8b4856c0'}
+  - {seq: 1, role: markers, filename: assets/KR3j0007_001-krp.markers.yaml, hash: 'sha256:c60f58b74c92a3e0fcbfef625a203f07a190daac17688c144730d6d33ff748e4'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3j0007_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 960
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3j0007_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 8911
+  label: 公孫龍子
+  type: section
+  level: 1
+hash: sha256:951082d13642ccad9a7afe495f62d71c1d3591eacaef3819f5338e174dd6b987
