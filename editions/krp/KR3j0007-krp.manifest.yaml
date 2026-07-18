@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR3j0007_000-krp.yaml, hash: 'sha256:d3f5dc10ecd7848c8e869795bb77f8964a549937f0e9f4a5c0dd3d81d2eb5c97'}
   - {seq: 1, filename: KR3j0007_001-krp.yaml, hash: 'sha256:92479b93624f34a5cc51204302025a7b6c3090ed1c02ef489d46a76c397afbae'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3j0007_000-krp.markers.yaml, hash: 'sha256:f3dfa00a2910afd95485ed6e85d0b0f04cecbc9f13364fae07fe960c8b4856c0'}
-  - {seq: 1, role: markers, filename: assets/KR3j0007_001-krp.markers.yaml, hash: 'sha256:c60f58b74c92a3e0fcbfef625a203f07a190daac17688c144730d6d33ff748e4'}
+  - {seq: 0, role: markers, filename: assets/KR3j0007_000-krp.markers.yaml, hash: 'sha256:1f09bf20181fa0466a44594901e1144c81b53e59b84d77ac2c7f8acdae464413'}
+  - {seq: 1, role: markers, filename: assets/KR3j0007_001-krp.markers.yaml, hash: 'sha256:43e67b86191a47ff7fa962f63fb308ca0ab530fb364197a0ff52061a333108dd'}
 table_of_contents:
 - ref:
     seq: 0
@@ -43,4 +43,4 @@ table_of_contents:
   label: 公孫龍子
   type: section
   level: 1
-hash: sha256:951082d13642ccad9a7afe495f62d71c1d3591eacaef3819f5338e174dd6b987
+hash: sha256:b43b3b4b30b9c077cc3143178a423064c39550c1f1d563093653bdfaa0f994e8
